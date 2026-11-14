@@ -14,8 +14,9 @@
 
 ## 下载
 
-去 [Releases](../../releases/latest) 下最新的 `虫虫蜂房-分享版-*.zip`，解压到桌面或 D 盘，
-双击 `虫虫蜂房.exe` 就能玩。**不需要装 Python，也不需要联网。**
+去 [Releases](../../releases/latest) 下最新的 zip（附件名 `chongchong-hive-lan-*.zip`，
+显示名是「虫虫蜂房·局域网版」），解压到桌面或 D 盘，双击 `虫虫蜂房.exe` 就能玩。
+**不需要装 Python，也不需要联网。**
 
 > 注意：`虫虫蜂房.exe` 必须和同目录的 `_internal\` 文件夹放在一起，单独拷 exe 会打不开。
 

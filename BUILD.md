@@ -49,5 +49,8 @@ New-NetFirewallRule -DisplayName "虫虫蜂房 联机" -Direction Inbound -Proto
 
 ## GitHub Release
 
-把 `dist\虫虫蜂房\` 压缩成 `虫虫蜂房-分享版-<日期>.zip`，在仓库 Releases 里新建一个 tag
-（例如 `v2026.11.14`），把这个 zip 拖上去当附件。仓库里不放 exe，保持源码干净。
+把 `dist\虫虫蜂房\` 压缩成 zip，在仓库 Releases 里新建一个 tag（例如 `v2026.11.14`），
+把这个 zip 拖上去当附件。仓库里不放 exe，保持源码干净。
+
+**附件名必须用 ASCII**（例如 `chongchong-hive-lan-2026.11.14.zip`）：GitHub 的上传接口
+会把非 ASCII 文件名吃掉，中文只会出现在附件的 label 里。
