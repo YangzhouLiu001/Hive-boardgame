@@ -1,0 +1,198 @@
+{
+ "app": "虫虫蜂房",
+ "format": 1,
+ "options": {
+  "expansions": [],
+  "names": [
+   "白方",
+   "黑方"
+  ],
+  "relaxed": true,
+  "first": 1
+ },
+ "moves": [
+  {
+   "p": 1,
+   "k": "beetle",
+   "uid": 12,
+   "frm": null,
+   "to": [
+    0,
+    0
+   ],
+   "aux": null,
+   "n": 1
+  },
+  {
+   "p": 0,
+   "k": "spider",
+   "uid": 3,
+   "frm": null,
+   "to": [
+    1,
+    0
+   ],
+   "aux": null,
+   "n": 2
+  },
+  {
+   "p": 1,
+   "k": "grasshopper",
+   "uid": 17,
+   "frm": null,
+   "to": [
+    -1,
+    1
+   ],
+   "aux": null,
+   "n": 3
+  },
+  {
+   "p": 0,
+   "k": "queen",
+   "uid": 0,
+   "frm": null,
+   "to": [
+    2,
+    -1
+   ],
+   "aux": null,
+   "n": 4
+  },
+  {
+   "p": 1,
+   "k": "spider",
+   "uid": 15,
+   "frm": null,
+   "to": [
+    -1,
+    2
+   ],
+   "aux": null,
+   "n": 5
+  },
+  {
+   "p": 0,
+   "k": "ant",
+   "uid": 8,
+   "frm": null,
+   "to": [
+    2,
+    0
+   ],
+   "aux": null,
+   "n": 6
+  },
+  {
+   "p": 1,
+   "k": "queen",
+   "uid": 11,
+   "frm": null,
+   "to": [
+    0,
+    -1
+   ],
+   "aux": null,
+   "n": 7
+  },
+  {
+   "p": 0,
+   "k": "ant",
+   "uid": 8,
+   "frm": [
+    2,
+    0
+   ],
+   "to": [
+    0,
+    -2
+   ],
+   "aux": null,
+   "n": 8
+  },
+  {
+   "p": 1,
+   "k": "ant",
+   "uid": 21,
+   "frm": null,
+   "to": [
+    0,
+    2
+   ],
+   "aux": null,
+   "n": 9
+  },
+  {
+   "p": 0,
+   "k": "ant",
+   "uid": 8,
+   "frm": [
+    0,
+    -2
+   ],
+   "to": [
+    1,
+    2
+   ],
+   "aux": null,
+   "n": 10
+  },
+  {
+   "p": 1,
+   "k": "grasshopper",
+   "uid": 16,
+   "frm": null,
+   "to": [
+    -2,
+    1
+   ],
+   "aux": null,
+   "n": 11
+  },
+  {
+   "p": 0,
+   "k": "spider",
+   "uid": 4,
+   "frm": null,
+   "to": [
+    2,
+    -2
+   ],
+   "aux": null,
+   "n": 12
+  },
+  {
+   "p": 1,
+   "k": "ant",
+   "uid": 19,
+   "frm": null,
+   "to": [
+    -2,
+    0
+   ],
+   "aux": null,
+   "n": 13
+  },
+  {
+   "p": 0,
+   "k": "spider",
+   "uid": 4,
+   "frm": [
+    2,
+    -2
+   ],
+   "to": [
+    0,
+    -2
+   ],
+   "aux": null,
+   "n": 14
+  }
+ ],
+ "result": null,
+ "winner": null,
+ "reason": "",
+ "theme": "mahjong",
+ "versus": "ai",
+ "saved_at": "2026-11-12 23:58:21"
+}

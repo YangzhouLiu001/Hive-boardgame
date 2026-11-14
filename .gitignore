@@ -1,0 +1,42 @@
+# ---------- 构建 / 打包产物（不进仓库） ----------
+_internal/
+dist/
+build/
+*.exe
+*.zip
+*.lnk
+# PyInstaller 的中间目录（本机打包用）
+.al/
+.build/
+.tools/
+
+# ---------- 备份、临时实验、内部截图 ----------
+备份/
+tmp2/
+局面分析/
+.a/
+.aa/
+.ae/
+.am/
+.b/
+.p/
+.pdf/
+.s/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---------- 编辑器 / 系统 ----------
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---------- 旧资料：讲的是已废弃的「强规则」，不公开 ----------
+强规则说明.pdf
+hive/assets/rule_narrow.png
+hive/assets/rule_wedge.png

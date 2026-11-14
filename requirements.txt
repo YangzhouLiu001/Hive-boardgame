@@ -1,0 +1,2 @@
+# 运行只需要 Pillow（tkinter 是 Python 自带的）
+Pillow>=10.0
